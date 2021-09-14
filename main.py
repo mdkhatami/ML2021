@@ -3,3 +3,6 @@ def f1(n):
         print(i)
 def f2(n):
     return sum([i for i in range(n)])
+
+def f3(n):
+    print('f3')
