@@ -6,3 +6,5 @@ def f2(n):
 
 def f3(n):
     print('f3')
+def f5(n):
+    print('f5')
