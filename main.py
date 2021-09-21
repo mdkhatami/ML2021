@@ -12,3 +12,5 @@ def f4(n):
     
 def f5(n):
     print('f5')
+def f6(n):
+    print('f6')
