@@ -4,3 +4,6 @@ def func1(a):
 def func2(a):
 	for i in range(a):
 		print(i*2)
+def func3(a):
+	for i in range(a):
+		print(i**2)
