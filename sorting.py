@@ -1,5 +1,5 @@
 # Python script for sorting a list of numbers
-
+print("Hello world! This git tutorial.")
 # Sample list of numbers
 numbers = [3, 1, 4, 1, 5, 9, 2, 6, 5, 3, 5]
 
